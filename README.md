@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Stephen 👋</h1>
 
-<!--
-**StephenVinouze/StephenVinouze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Giving life to mobile apps for 10+ years 📱. Kotlin advocate since day 1 🥑. Technical writer ✍️. Also a knack for mobile devops ∞. And world traveler when I’m not   behind a laptop ✈️
+</p>
 
-Here are some ideas to get you started:
+<p align="center">  
+  <a href="https://twitter.com/stephenvinouze">
+    <img alt="Stephen Vinouze's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://medium.com/@s.vinouze/">
+    <img alt="Stephen Vinouze's Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/stephenvinouze/">
+    <img alt="Stephen Vinouze's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StephenVinouze&count_private=true&show_icons=true" />
+</p>
+<br />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StephenVinouze&" />
+</p>
+<br /> 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=StephenVinouze" />
+</p>
